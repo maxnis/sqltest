@@ -1,3 +1,3 @@
 # sqltest
 
-SQL snippets
+SQL queries and snippets
