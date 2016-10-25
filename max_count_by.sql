@@ -1,4 +1,5 @@
 -- Find customer(s) with max number of orders
+-- DB: AdventureWorks2014
 
 -- 1. Create CTE with number of orders per customer
 WITH order_count As (
